@@ -12,6 +12,10 @@ be able to manage these Google analytics accounts from the Django admin page.
 I also added a mode of operation that excludes the admin interface altogether 
 (you can just use the template tag)
 
+## To install the latest stable version
+
+    pip install git+git://github.com/digicase/django-google-analytics#egg=django-google-analytics
+
 
 ## Two modes of operation ##
 
